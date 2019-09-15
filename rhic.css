@@ -1,24 +1,39 @@
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #84AD81;
+body {
+    background-color: #8A5391;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 1.1em;
+}
+h1 {
+	text-align: center;
+    color: #B6A9CB;
+}
+#intro {
+	text-align: center;
+	color: #B6A9CB;
+    font-size: 1.3em;
 }
 
-li {
-  float: left;
+.link {
+	text-align: center;
+	color: #B6A9CB;
+    font-size: 1.3em;
+}
+.colorful {
+	text-align: center;
+    color: #B6A9CB;
+}
+.center {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 20px 26px;
-  text-decoration: none;
+.center-2 {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
 
-li a:hover {
-  background-color: #50754E;
-}
+
