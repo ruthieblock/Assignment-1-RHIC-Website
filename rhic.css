@@ -13,27 +13,10 @@ h1 {
     font-size: 1.3em;
 }
 
-.link {
-	text-align: center;
-	color: #B6A9CB;
-    font-size: 1.3em;
-}
-.colorful {
-	text-align: center;
-    color: #B6A9CB;
-}
 .center {
 	 display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
-.center-2 {
-	 display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-}
-
 
